@@ -1,0 +1,1 @@
+# Clase-gen-mica-funcional
