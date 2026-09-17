@@ -1,4 +1,3 @@
-# Clase-genomica-funcional
 # Functional Genomics of Coffea arabica in response to Xylella fastidiosa
 
 This repository contains the code used for the functional genomics analysis of the transcriptomic response of two *Coffea arabica* cultivars, Catuai and CR95, to *Xylella fastidiosa* infection.
